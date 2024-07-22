@@ -3,6 +3,8 @@
 ## Project Overview 📝
 Heart disease is a global health threat, claiming millions of lives each year. To help combat this, I've developed the **Heart Disease Prediction** project, a machine learning tool designed to deliver early warnings about heart disease risks right at your fingertips. By analyzing key health indicators and lifestyle choices, this tool provides a preliminary assessment of your heart disease risk, empowering you to take proactive steps towards a healthier future.
 
+![2](https://github.com/user-attachments/assets/b848a45c-a165-4d51-abb5-6e3d64cc10ef)
+
 ## Concepts Used 🧠
 
 ### Machine Learning Magic 🧙‍♂️
@@ -21,6 +23,9 @@ Built with Streamlit, our user interface is designed to be intuitive and user-fr
 Visual aids and feedback mechanisms help users understand their risk level. From colorful charts to personalized messages, we make complex health data easy to digest.
 
 ## Aims and Objectives 🎯
+
+![1](https://github.com/user-attachments/assets/9687613f-cb0a-4aaa-bfdb-af696d98a999)
+
 
 ### Early Detection ⏰
 Our primary aim is to facilitate early detection of heart disease risk. By providing an accessible tool for preliminary assessment, we help users recognize potential health issues before they become severe.
